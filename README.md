@@ -87,7 +87,7 @@ ISRO/NASA DSN    600–800 km orbit     Memory Node      Mars/L2/Beyond
 ---
 
 ## 📎 View Poster
-[📄 View Full Poster (HTML)](./QLEAP_print_ready.html)
+[📄 View Full Poster (HTML)](https://github.com/Bhagyaabbigeri/Research-Papers/blob/32bae83f1a20982ebae62e1d66a57ff70b82893f/QLEAP_poster_presentation.pdf)
 
 ---
 
